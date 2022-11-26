@@ -35,11 +35,11 @@
 
 - 🌱 I’m currently learning **ALX software engineering**
 
-- 💬 Ask me about **HTML,CSS,javascript,c++**
+- 💬 Ask me about **HTML,CSS,javascript,c++,java**
 
-- 📫 How to reach me **ephremhabtamu2015@gmail,com**
+- 📫 How to reach me **ephremhabtamu2015@gmail.com**
 
-- ⚡ Fun fact **I am fun with coing**
+- ⚡ Fun fact **I am fun with coding!!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
