@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **software engineering at Bahirdar university**
 
-- 💬 Ask me about **HTML,CSS,javascript,c++**
+- 💬 Ask me about **HTML,CSS,javascript,Java,c++**
 
 - ⚡ Fun fact **I am fun with coding**
 
