@@ -15,11 +15,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="http://www.linkedin.com/in/ephrem-habtamu-ab853b259" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ephrem habtamu" height="30" width="40" /></a>
-  <a href="http://www.linkedin.com/in/ephrem-habtamu-ab853b259" target="_blank" rel="noopener noreferrer">
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" width="30" height="30">
-    <path d="M20.25 20.25H17.4V15c0-1.35-.03-3.09-1.89-3.09-1.89 0-2.17 1.48-2.17 3V20.25H10.5V8.25h2.93v1.62h.04c.41-.78 1.41-1.61 2.89-1.61 3.09 0 3.67 2.03 3.67 4.68V20.25zM7.5 6.75c-1.35 0-2.25.9-2.25 2.07 0 1.17.9 2.07 2.25 2.07 1.35 0 2.25-.9 2.25-2.07-.01-1.17-.9-2.07-2.25-2.07zm-1.5 13.5h3.09V8.25H6v12zM22.5 0h-21C.675 0 0 .675 0 1.5v21c0 .825.675 1.5 1.5 1.5h21c.825 0 1.5-.675 1.5-1.5v-21c0-.825-.675-1.5-1.5-1.5zm-6.75 18.75h-2.93v-6.93h2.93v6.93z"/>
-  </svg>
+ <a href="https://www.linkedin.com/in/ephrem-habtamu-ab853b259/" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="LinkedIn" width="30" height="30"/>
 </a>
+
 
 </p>
 
