@@ -15,9 +15,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="http://www.linkedin.com/in/ephrem-habtamu-ab853b259" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ephrem habtamu" height="30" width="40" /></a>
- <a href="https://www.linkedin.com/in/ephrem-habtamu-ab853b259/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="LinkedIn" width="30" height="30"/>
+<a href="https://www.linkedin.com/in/ephrem-habtamu-ab853b259/" target="_blank">
+  <img src="https://static-exp1.licdn.com/sc/h/alnxv8zjehm6zd3c5ox5ek5pw" alt="LinkedIn" width="30" height="30"/>
 </a>
+
 
 
 </p>
