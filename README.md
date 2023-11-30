@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **software engineering at Bahirdar university**
 
-- 💬 Ask me about **HTML,CSS,javascript,Java,c++,React,PHP,Express js,Node Js,Mongodb,Redis**
+- 💬 Ask me about **HTML,CSS,javascript,Java,c++,React,PHP,Express js,Node Js,Mongodb**
 
 - ⚡ Fun fact **I am fun with coding**
 
