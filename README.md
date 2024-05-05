@@ -25,4 +25,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=EphriamHab&show_icons=true&locale=en&layout=compact" alt="Ephriamhab" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=EphriamHab&show_icons=true&locale=en" alt="Ephriamhab" /></p>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=EphriamHab)](https://git.io/streak-stats)
