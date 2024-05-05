@@ -25,3 +25,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=EphriamHab&show_icons=true&locale=en&layout=compact" alt="Ephriamhab" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=EphriamHab&show_icons=true&locale=en" alt="Ephriamhab" /></p>
+<p align="center">
+  <a href="https://github.com/EphriamHab/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=EphriamHab&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
+  </a>
+</p>
