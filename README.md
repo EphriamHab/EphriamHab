@@ -7,8 +7,12 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **software engineering at Bahirdar university**
-
+- 
+- 🌱🔭 I’m currently working on **Backend Web development**
+- 
 - 💬 Ask me about **HTML,CSS,javascript,Java,c++,React,PHP,Express js,Node Js,Mongodb**
+
+- 👨‍💻 All of my projects are available at **https://github.com/EphriamHab**
 
 - ⚡ Fun fact **I am fun with coding**
 
