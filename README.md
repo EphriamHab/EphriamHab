@@ -8,7 +8,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-- 🌱 I’m currently learning **software engineering at Bahirdar university**
+- 🌱 I graduated in **software Engineering from Bahirdar university.**
 - 🌱🔭 I’m currently working on **Backend Web development** 
 - 💬 Ask me about **HTML,CSS,javascript,Java,c++,React,PHP,Express js,Node Js,Mongodb**
 - 👨‍💻 Check out my portfolio [https://ephrem-habtamu.vercel.app/](https://ephrem-habtamu.vercel.app/)
