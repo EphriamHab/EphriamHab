@@ -42,8 +42,7 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 </p>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=EphriamHab&show_icons=true&locale=en&layout=compact" alt="Ephriamhab" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=EphriamHab&show_icons=true&locale=en&layout=compact" alt="EphriamHab" /></p>
 
 <p align="center">
   <a href="https://github.com/EphriamHab/github-readme-streak-stats">
