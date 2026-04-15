@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Ephrem Habtamu</h1>
-<h3 align="center">A Junior website developer from Ethiopia</h3>
+<h3 align="center">A Software developer from Ethiopia</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=EphriamHab&label=Profile%20views&color=0e75b6&style=flat" alt="EphriamHab" /> </p>
 <a href="https://github.com/EphriamHab/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=EphriamHab" alt="GitHub Profile Trophy" />
@@ -15,49 +15,71 @@
 - 👨‍💻 All of my projects are available at **https://github.com/EphriamHab**
 - ⚡ Fun fact **I am fun with coding**
 
-<h3 align="left">Connect with me:</h3>
+### Connect with Me
+
 <p align="left">
-<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ephrem habtamu" height="30" width="40" /></a>
- <a href="https://www.linkedin.com/in/ephrem-habtamu-b01322285" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https:lomnn.com" height="30" width="40" /></a>
- <a href="https://twitter.com/EphremHabt70206" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" 
-      height="30" width="40" />
- </a>
- <a href="https://www.instagram.com/ephrem_524/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/ephrem-habtamu-b01322285" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/EphremHabt70206" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://www.instagram.com/ephrem_524/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
- <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
- <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+---
+
+### Tech Stack & Tools
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,cpp,python,php" />
+</p>
+
+### Frameworks & Libraries
+<p>
+  <img src="https://skillicons.dev/icons?i=react,redux,nodejs,express,tailwind,flutter" />
+</p>
+
+### Databases & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postman,git,figma" />
+</p>
+
+---
+
+### GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EphriamHab&theme=radical&layout=compact&hide_border=true&bg_color=0D1117&title_color=2D9EF7&icon_color=2D9EF7&text_color=ffffff" alt="Top Languages" width="38%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EphriamHab&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=2D9EF7&icon_color=2D9EF7&text_color=ffffff" alt="GitHub Stats" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EphriamHab&theme=radical&hide_border=true&background=0D1117&stroke=2D9EF7&ring=2D9EF7&fire=2D9EF7&currStreakLabel=2D9EF7" alt="GitHub Streak" width="60%" />
+</div>
+
+---
+
+### Current Focus
+
+- Deepening backend architecture with **Node.js & Express**
+- Exploring **TypeScript** for type‑safe applications
+- Building real‑world projects to solve local community needs
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/EphriamHab/EphriamHab/output/snake.svg" alt="Snake animation" />
 </p>
 
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=EphriamHab&theme=dark&show_icons=true&locale=en&layout=compact" alt="EphriamHab"
-    width="38%"
-/>
-
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=EphriamHab&theme=dark&hide_border=false&include_all_commits=false&count_private=false"
-    alt="GitHub Stats"
-    width="48%"
-  />
-</p>
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=EphriamHab&theme=dark&hide_border=true&background=0D1117&stroke=0000"
-    alt="GitHub Streak"
-    />
+  <i>Let's build something amazing together! 🚀</i>
 </p>
 
 
