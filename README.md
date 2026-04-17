@@ -15,7 +15,7 @@
 - 🔭 **Currently working on:** Advanced Backend Systems and ERP integrations.
 - 🌱 **Learning:** Cloud Architecture and System Design.
 - 👨‍💻 **Portfolio:** [ephrem-habtamu.vercel.app](https://ephrem-habtamu.vercel.app/)
-- 💬 **Ask me about:** React, Node.js, Frappe, ERPNext, Express, and Database Management.
+- 💬 **Ask me about:** React, Next.js, Node.js, Frappe, ERPNext, Express, and Database Management.
 - ⚡ **Fun fact:** I find solving complex bugs strangely therapeutic.
 
 ### Connect with Me
