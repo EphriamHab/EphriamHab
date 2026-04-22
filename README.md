@@ -78,7 +78,9 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/EphriamHab/EphriamHab/output/snake.svg" alt="Snake animation" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full-Stack+Software+Engineer;Frappe+%26+ERPNext+Developer;React+and+Next.js+Developer" alt="Typing Animation" />
+  </a>
 </p>
 
 <p align="center">
